@@ -28,8 +28,8 @@ We believe in the power of collaboration. As a community-driven organization, we
 Here's how you can join us:
 
 1. **Fork & Contribute**: Feel free to fork any of our repositories, make changes, and submit a pull request.
-2. **Host Your Project**: If you want to host your project under our organization, please contact one of the organization [admins](https://github.com/orgs/PedestrianDynamics/teams/admins).
-3. **Engage**: Share ideas, provide feedback, or simply engage with the community on our discussion boards.
+2. **Host Your Project**: If you want to host your project under our organization, please [open an issue](https://github.com/PedestrianDynamics/.github/issues) or contact one of the organization [admins](https://github.com/orgs/PedestrianDynamics/teams/admins).
+3. **Engage**: Share ideas, provide feedback, or simply engage with the community on our [discussion boards](https://github.com/orgs/PedestrianDynamics/discussions).
 
 Remember, everyone is welcome, and every contribution counts!
 
